@@ -18,7 +18,7 @@
 2. [Eth-Avax-ERC20Bridge](https://github.com/Thirdwrist/Eth-Avax-ERC20Bridge)
 3. [OdyGame](https://github.com/Odyssey-DAO/OdyGame)
 
-## Research [0xffchain.notion.site]([xffchain.notion.site/](https://0xffchain.notion.site/0xffchain-Research-11669c0bb54d410399639bd9dc0c2ed9))
+## Research [0xffchain.notion.site](https://0xffchain.notion.site/0xffchain-Research-11669c0bb54d410399639bd9dc0c2ed9)
 1. [Shifting and masking in Yul](https://0xffchain.hashnode.dev/bits-bytes-shifting-and-masking-in-assembly-yul)
 2. [Compound inflation attack explained](https://www.notion.so/Compound-v2-inflation-attack-mechanism-explained-cfc9086969de48b8a3f8884731747b3f?pvs=25)
 3. [Detailed BreakDown of Wise lending hack](https://0xffchain.hashnode.dev/detailed-breakdown-of-the-wise-lending-hack)
