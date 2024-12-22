@@ -1,8 +1,8 @@
 # Previous works 
 
 ## Notable Mentions
-1. [Mantle l2 PreAudit (Top 10)](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Mantle_V2) 
-2. [Mantle l2 Main Audit (Top 5)](https://x.com/secure3io/status/1790588390083318089)
+1. [Mantle l2 Main Audit (Top 5)](https://x.com/secure3io/status/1790588390083318089)
+2. [Mantle l2 PreAudit (Top 10)](https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/Mantle_V2) 
 3. [Zk Fair L2 (top 5)](https://app.secure3.io/en/417dad69)
 4. [C4 Venus Protocol (top 4)](https://code4rena.com/reports/2023-05-venus)
 5. [DappOS (Top 1)](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/dappOS/DapposP4_final_Secure3_Audit_Report.pdf)
