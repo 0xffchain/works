@@ -7,6 +7,7 @@
 4. [C4 Venus Protocol (top 4)](https://code4rena.com/reports/2023-05-venus)
 5. [DappOS (Top 1)](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/dappOS/DapposP4_final_Secure3_Audit_Report.pdf)
 6. [Holonym (Top 1)(0xtruthfulmonkey)](https://github.com/Secure3Audit/Secure3Academy/blob/main/audit_reports/Holonym/Holonym-P1_final_Secure3_Audit_Report.pdf)
+7. [Others](https://0xffchain.notion.site/19aa329f5a6e8064b5c7cd9a25f45627?v=19aa329f5a6e8030ac36000c38abcaf2&pvs=4)
 
 ## Competition Profiles
 1. [Secure3](https://app.secure3.io/en/profile/0xffchain)
