@@ -31,7 +31,7 @@
 4. [Detialed BreakDown of MIM Hack](https://0xffchain.hashnode.dev/how-abracadabra-was-hacked-for-65m-worth-mimmagic-internet-money)
 5. [EIP 4626 Inflation Attack Explained](https://medium.com/@0x.offchain/eip4626-inflation-attack-briefly-explained-250f8a8e424e)
 6. [Compound v2 compounding Interest break down](https://0xffchain.notion.site/Compounding-interests-explained-146a329f5a6e8005aa54f957f885e192)
-7.[Morpho Blue report in review](https://0xffchain.hashnode.dev/morpho-blue-report-in-review)
+7. [Morpho Blue report in review](https://0xffchain.hashnode.dev/morpho-blue-report-in-review)
 
 ## News Letter
 1. [Season 1 Episode 1](https://x.com/0xffchain/status/1845987193745297776)
